@@ -164,7 +164,7 @@ ul li a:hover{
 }
 .footer-container{
 	background-color: #212329;
-	padding: 4rem 0 4rem 0;
+	padding: 4rem 0 1rem 0;
 }
 .footer{
 	width: 80%;
@@ -205,7 +205,7 @@ ul li a:hover{
 }
 
 .outer-footer{
-	text-align: right;
+	text-align: center;
 	font-family: cursive;
 	background-color:  #212329;
 	color: green;
